@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Click [here](https://drive.google.com/file/d/1K24iUAvshwUJMkMthuDbaGY2PHg4LQoF/view?usp=sharing) to view in PDF (Version: January 2025)
+Click [here](https://drive.google.com/file/d/1K24iUAvshwUJMkMthuDbaGY2PHg4LQoF/view?usp=sharing) to view in PDF (Updated in January 2025)
 
 Education
 ======
