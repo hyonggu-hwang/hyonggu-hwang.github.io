@@ -12,9 +12,9 @@ title                    : "Hyong-gu Hwang"
 title_separator          : "-"
 name                     : &name "Hyong-gu Hwang"
 description              : &description "personal description"
-url                      : https://hyonggu.github.io 
+url                      : https://hyonggu-hwang.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "hyonggu/hyonggu.github.io"
+repository               : "hyonggu-hwang/hyonggu-hwang.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
