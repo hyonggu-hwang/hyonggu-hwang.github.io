@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student in finance at the University of Illinois Urbana-Champaign Gies College of Business.
+I am a first-year PhD student in finance at the University of Illinois Urbana-Champaign [Gies College of Business](https://giesbusiness.illinois.edu).
 
 My research interests are in corporate finance, household finance, industrial organization and structural estimation. 
 
