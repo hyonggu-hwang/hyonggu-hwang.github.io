@@ -12,7 +12,7 @@ Corporate finance, household finance, industrial organization, structural estima
 * <strong>University of Chicago, Department of Economics (2024)</strong><br>
 Full-time RA for [Alexander Torgovitsky](https://a-torgovitsky.github.io), 2024 <br>
   <details>
-  <summary>Project: Dynamic model of labor supply</summary>
+  <summary>Dynamic model of labor supply</summary>
   <br> 
 
     Before starting graduate school at UIUC Gies, I briefly (for about six months) worked as a research assistant for Professor Alexander Torgovitsky on an econometrics proejct studying whether experiments can validate structural models. 
@@ -28,7 +28,7 @@ Full-time RA for [Alexander Torgovitsky](https://a-torgovitsky.github.io), 2024 
 * <strong>University of Chicago, Becker Friedman Institute (2020-2022)</strong><br>
 Predoctoral RA for [Alexander Torgovitsky](https://a-torgovitsky.github.io) and [Pietro Tebaldi](https://www.pietrotebaldi.com), 2020-2022 <br>
   <details>
-  <summary>Project: Semiparametric demand estimation</summary>
+  <summary>Semiparametric demand estimation</summary>
   <br> 
 
     I work with Professor Alexander Torgovitsky at the University of Chicago to develop an R package for semiparametric demand estimation. The econometric method embodied in this project is an extension of the nonparametric discrete choice model presented in [Tebaldi, Torgovitsky, and Yang (Econometrica 2023)](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA17215). The nonparametric model relaxes distributional assumptions about the latent valuations behind a consumer's utility, whereas in traditional approaches, the valuations are specified to be in a parametric family. (For example, the logit model requires that the latent valuations follow type I extreme value distribution.) The semiparametric model is similar in that it leaves the distribution of valuations unspecified, but it differs from the nonparametric model in that it parametrizes the impact of observable consumer- and product-specific characteristics on indirect utility with a linear function. 
@@ -47,7 +47,7 @@ Predoctoral RA for [Alexander Torgovitsky](https://a-torgovitsky.github.io) and 
   </details>
 
   <details>
-  <summary>Project: Insurer competition in U.S. Medicare Advantage markets</summary>
+  <summary>Insurer competition in U.S. Medicare Advantage markets</summary>
 <br> 
 
     Working with Professor Pietro Tebaldi at Columbia University and his coauthors, I contribute to a project that investigates the value of adding a 'public option' to health insurance exchanges. We consider the Medicare Advantage (MA) program, under which Medicare beneficiaries can opt out of Traditional Medicare (TM) program and enroll in a private-sector insurance plan. The MA program was implemented to diversify the consumer's choice set and to reduce healthcare costs through increased insurer competition. To provide some context, I breifly discuss below the institutional detail of the two programs.   
@@ -78,10 +78,10 @@ Undergraduate research positions
 <br> 
     In Summer 2019, I worked as a student researcher for Wooster Community Hospital in a team of two more math majors and Professors Jen Bowen (mathematics) and Drew Pasteur (applied statistics). We developed models of physical therapy outcome as measured by the patient's preceived improvement score for different areas of injury. Our models considered demographic characteristics, injury severity, clinical history, comorbidities, and socio-economic factors. Our findings were presented at the American Society of Shoulder and Elbow Therapists conference and at the Applied Methods and Research Experience symposium at the College of Wooster.  
 
-</details>
+    </details>
 
 * <strong>College of Wooster (2019-2020)</strong><br>
-Undergraduate thesis project (<em>[View full text](https://openworks.wooster.edu/cgi/viewcontent.cgi?article=11861&context=independentstudy) </em>)
+Undergraduate thesis project ([View full text](https://openworks.wooster.edu/cgi/viewcontent.cgi?article=11861&context=independentstudy))
   <details>
   <summary>Click here for more detail.</summary>
 <br> 
