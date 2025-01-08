@@ -60,7 +60,7 @@ Departmental Honors from the Economics and Mathematics departments, 2020 <br>
 <hr>
 
 ## Skills 
-<strong>Programming Skills </strong> R, Julia, Stata, Latex <br>
+<strong>Programming Skills </strong> R, Julia, Stata, LaTeX <br>
 <strong>Military Service </strong> Assistant firefighter, South Korea, 2014-2016
 
 <hr> 
