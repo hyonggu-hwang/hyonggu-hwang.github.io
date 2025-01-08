@@ -9,7 +9,7 @@ Corporate finance, household finance, industrial organization, structural estima
 
 
 ## Predoctoral Research
-* <strong>University of Chicago, Department of Economics (2024)</strong><br>
+* <strong>University of Chicago, Department of Economics</strong><br>
 Full-time RA for [Alexander Torgovitsky](https://a-torgovitsky.github.io), 2024 <br>
   <details>
   <summary>Dynamic model of labor supply</summary>
@@ -25,7 +25,7 @@ Full-time RA for [Alexander Torgovitsky](https://a-torgovitsky.github.io), 2024 
 
   </details>
 
-* <strong>University of Chicago, Becker Friedman Institute (2020-2022)</strong><br>
+* <strong>University of Chicago, Becker Friedman Institute</strong><br>
 Predoctoral RA for [Alexander Torgovitsky](https://a-torgovitsky.github.io) and [Pietro Tebaldi](https://www.pietrotebaldi.com), 2020-2022 <br>
   <details>
   <summary>Semiparametric demand estimation</summary>
@@ -63,10 +63,10 @@ Predoctoral RA for [Alexander Torgovitsky](https://a-torgovitsky.github.io) and 
 
   </details>
 
-* <strong>College of Wooster, Departments of Economics and Mathematics (2016-2020)</strong><br>
-Undergraduate research positions
+* <strong>College of Wooster</strong><br>
+Undergraduate Research Positions and Senior Thesis ([View full text](https://openworks.wooster.edu/cgi/viewcontent.cgi?article=11861&context=independentstudy))
   <details>
-  <summary>Click here for more detail.</summary>
+  <summary>Undergraduate research positions</summary>
 <br> 
     At the College of Wooster, I worked as a departmental research assistant for three different projects, and as a student researcher for the Applied Methods and Research Experience (AMRE) program. 
 <br> 
@@ -80,10 +80,8 @@ Undergraduate research positions
 
     </details>
 
-* <strong>College of Wooster (2019-2020)</strong><br>
-Undergraduate thesis project ([View full text](https://openworks.wooster.edu/cgi/viewcontent.cgi?article=11861&context=independentstudy))
   <details>
-  <summary>Click here for more detail.</summary>
+  <summary>Senior thesis on fire service provision</summary>
 <br> 
     Title: A Theory of Fire Service Provision: With an empirical analysis of response time, suppression time, and service output
 <br> 
