@@ -63,8 +63,8 @@ Predoctoral RA for [Alexander Torgovitsky](https://a-torgovitsky.github.io) and 
 
   </details>
 
-* <strong>College of Wooster</strong><br>
-Undergraduate Research Positions and Senior Thesis ([View full text](https://openworks.wooster.edu/cgi/viewcontent.cgi?article=11861&context=independentstudy))
+* <strong>College of Wooster, Departments of Economics and Mathematics</strong><br>
+Undergraduate Research Experience ([Link to senior thesis](https://openworks.wooster.edu/cgi/viewcontent.cgi?article=11861&context=independentstudy))
   <details>
   <summary>Undergraduate research positions</summary>
 <br> 
