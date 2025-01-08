@@ -14,13 +14,13 @@ Click [here](https://drive.google.com/file/d/1K24iUAvshwUJMkMthuDbaGY2PHg4LQoF/v
 Education
 ======
 <strong>Univeristy of Illionis Urbana-Champaign, Gies College of Business</strong> <br>
-Ph.D Student in Finance, 2024 - Now <br><br>
+Ph.D Student in Finance, 2024 - Now <br>
 
 <strong> University of Chicago, Department of Economics</strong> <br>
-M.A. in Economics (Terminal Degree), 2023 <br> <br>
+M.A. in Economics (Terminal Degree), 2023 <br>
 
 <strong>College of Wooster</strong> <br>
-B.A. in Economics and Mathematics, 2020
+B.A. in Economics and Mathematics, 2020<br>
 
 Research
 ======
