@@ -47,6 +47,7 @@ Teaching Assitant to [Brooke Krause](https://sites.google.com/view/brookekrause/
 Teaching Assitant to [Melanie Long](https://sites.google.com/view/mglong/home?authuser=0) for Econometrics, 2019 <br>
 Teaching Assitant to [Philip Mellizo](https://wooster.edu/bio/pmellizo/) for Intermediate Microeconomics, 2018 <br>
 Teaching Assitant to Matthew Histen for Principles of Economics, 2017 <br>
+Economics Department Peer Tutor, 2018
 
 <hr>
 
