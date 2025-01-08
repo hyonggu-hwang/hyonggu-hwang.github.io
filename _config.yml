@@ -21,7 +21,7 @@ repository               : "hyonggu/hyonggu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.PNG"
+  avatar           : "profile.png"
   name             : "Hyong-gu Hwang"
   bio              : "Finance PhD Student at UIUC Gies College of Business"
   location         : "Champaign, IL"
