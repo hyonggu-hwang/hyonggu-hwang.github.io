@@ -22,6 +22,8 @@ M.A. in Economics (Terminal Degree), 2023 <br>
 <strong>College of Wooster</strong> <br>
 B.A. in Economics and Mathematics, 2020<br>
 
+<hr> 
+
 Research
 ======
 <strong>UIUC Gies College of Business</strong> <br>
