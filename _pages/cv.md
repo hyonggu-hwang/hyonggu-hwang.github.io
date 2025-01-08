@@ -9,9 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+Click [here](https://drive.google.com/file/d/1K24iUAvshwUJMkMthuDbaGY2PHg4LQoF/view?usp=sharing) for PDF version (January 2025).
+
 Education
 ======
-* Ph.D in Finance, Univeristy of Illionis Urbana-Champaign, Gies College of Business 2030 (expected)
+* Ph.D in Finance, Univeristy of Illionis Urbana-Champaign, Gies College of Business 2024 - Now
 * M.A. in Economics (Terminal Degree), University of Chicago, 2023
 * B.A. in Economics and Mathematics, College of Wooster, 2020
 
