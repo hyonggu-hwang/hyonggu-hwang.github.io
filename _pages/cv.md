@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Click [here](https://drive.google.com/file/d/1K24iUAvshwUJMkMthuDbaGY2PHg4LQoF/view?usp=sharing) to view in PDF (Updated in January 2025)
+Click [here](https://drive.google.com/file/d/1_cFAG4X3u22VXXG863L4BF3J-fZZJxax/view?usp=sharing) to view in PDF (Updated in January 2025)
 
 <hr> 
 
@@ -47,3 +47,11 @@ Teaching Assitant to [Brooke Krause](https://sites.google.com/view/brookekrause/
 Teaching Assitant to [Melanie Long](https://sites.google.com/view/mglong/home?authuser=0) for Econometrics, 2019 <br>
 Teaching Assitant to [Philip Mellizo](https://sites.google.com/view/brookekrause/home) for Intermediate Microeconomics, 2018 <br>
 Teaching Assitant to Matthew Histen for Principles of Economics, 2017
+
+<hr> 
+Awards
+======
+<strong>College of Wooster</strong> <br>
+[The Proctor & Gamble Economics Prize](https://drive.google.com/file/d/1ZwWnqDEm9B9V1NSX19_Q0CVrE-ilk1Z-/view?usp=sharing), 2020 <br>
+Departmental Honors from the Economics and Mathematics departments, 2020 <br>
+Henry J. Copeland Independent Study Grant ($1490.40) in support of [undergraduate thesis](https://openworks.wooster.edu/cgi/viewcontent.cgi?article=11861&context=independentstudy), 2019
