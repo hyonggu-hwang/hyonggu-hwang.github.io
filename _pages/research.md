@@ -9,7 +9,7 @@ Corporate finance, household finance, industrial organization, structural estima
 
 
 ## Predoctoral Research
-<strong>University of Chicago, Department of Economics (2024)</strong><br>
+* <strong>University of Chicago, Department of Economics (2024)</strong><br>
 Full-time RA for [Alexander Torgovitsky](https://a-torgovitsky.github.io), 2024 <br>
   <details>
   <summary>Project: Dynamic model of labor supply</summary>
@@ -25,9 +25,7 @@ Full-time RA for [Alexander Torgovitsky](https://a-torgovitsky.github.io), 2024 
 
   </details>
 
-<br>
-
-<strong>University of Chicago, Becker Friedman Institute (2020-2022)</strong><br>
+* <strong>University of Chicago, Becker Friedman Institute (2020-2022)</strong><br>
 Predoctoral RA for [Alexander Torgovitsky](https://a-torgovitsky.github.io) and [Pietro Tebaldi](https://www.pietrotebaldi.com), 2020-2022 <br>
   <details>
   <summary>Project: Semiparametric demand estimation</summary>
@@ -48,9 +46,7 @@ Predoctoral RA for [Alexander Torgovitsky](https://a-torgovitsky.github.io) and 
     Lastly, I am involved with the general building of the package. This includes keeping program files well maintained on GitHub, writing unit tests, and composing 'roxygen' descriptions for the pacakge manual. Another interesting, less everyday aspect of package development was to review and compare existing R packages for demand estimation. This was beneficial in that we could determine the types of data structure that our potential users would feel most familiar with and also weigh the pros and cons of the most widely used interfaces. 
   </details>
 
-<br>
-
-<strong>University of Chicago, Becker Friedman Institute (2020-2021)</strong><br>
+* <strong>University of Chicago, Becker Friedman Institute (2020-2021)</strong><br>
 Predoctoral RA for [Alexander Torgovitsky](https://a-torgovitsky.github.io) and [Pietro Tebaldi](https://www.pietrotebaldi.com), 2020-2022 <br>
   <details>
   <summary>Project: Insurer competition in U.S. Medicare Advantage markets</summary>
@@ -72,32 +68,8 @@ Predoctoral RA for [Alexander Torgovitsky](https://a-torgovitsky.github.io) and 
 
   </details>
 
-
-<br>
-
-<strong>College of Wooster (2019-2020)</strong><br>
-Undergraduate thesis project (<em>[View full text](https://openworks.wooster.edu/cgi/viewcontent.cgi?article=11861&context=independentstudy) </em>)
-  <details>
-  <summary>Click here for more detail.</summary>
-<br> 
-
-Title: A Theory of Fire Service Provision: With an empirical analysis of response time, suppression time, and service output
-<br> 
-
-Advisors: Jim Burnell (Economics), Marian Frazier (Statistics)
-<br> 
-
-Funding: Henry J. Copeland Independent Study Grant ($1490.40), April 2019
-<br> 
-
-Abstract: I introduce a two-stage theoretical framework of fire services that justifies the status of response time as a factor input. In the first stage, the provincial government distributes a budget to its cities, resulting in varied numbers of firefighters and fire engines in each city. In the second stage, each city fire department places its fire stations at spatially optimal locations that minimize expected response times. When a fire occurs, the outputs from these two stages are actualized into dispatch level, response time, and suppression time. These intermediate outputs are then transformed into inputs for producing service output, which I measure in terms of fire spread. Using data on 49,000 fire dispatches that occurred in Gyeonggi Province, South Korea in 2014- 2018, I estimate a set of models for the above outputs. I find evidence for increasing returns to population scale and an 1.9% increase in the number of severe fire outcomes associated with a one-minute delay in response times.
-
-  </details>
-
-<br>
-
-<strong>College of Wooster, Departments of Economics and Mathematics (2016-2020)</strong><br>
-Undergraduate research positions <br>
+* <strong>College of Wooster, Departments of Economics and Mathematics (2016-2020)</strong><br>
+Undergraduate research positions
   <details>
   <summary>Click here for more detail.</summary>
 <br> 
@@ -115,5 +87,27 @@ Undergraduate research positions <br>
 <br> 
 
     In Summer 2019, I worked as a student researcher for Wooster Community Hospital in a team of two more math majors and Professors Jen Bowen (mathematics) and Drew Pasteur (applied statistics). We developed models of physical therapy outcome as measured by the patient's preceived improvement score for different areas of injury. Our models considered demographic characteristics, injury severity, clinical history, comorbidities, and socio-economic factors. Our findings were presented at the American Society of Shoulder and Elbow Therapists conference and at the Applied Methods and Research Experience symposium at the College of Wooster.  
+
+  </details>
+
+* <strong>College of Wooster (2019-2020)</strong><br>
+Undergraduate thesis project (<em>[View full text](https://openworks.wooster.edu/cgi/viewcontent.cgi?article=11861&context=independentstudy) </em>)
+  <details>
+  <summary>Click here for more detail.</summary>
+<br> 
+
+Title: A Theory of Fire Service Provision: With an empirical analysis of response time, suppression time, and service output
+
+<br> 
+
+Advisors: Jim Burnell (Economics), Marian Frazier (Statistics)
+
+<br> 
+
+Funding: Henry J. Copeland Independent Study Grant ($1490.40), April 2019
+
+<br> 
+
+Abstract: I introduce a two-stage theoretical framework of fire services that justifies the status of response time as a factor input. In the first stage, the provincial government distributes a budget to its cities, resulting in varied numbers of firefighters and fire engines in each city. In the second stage, each city fire department places its fire stations at spatially optimal locations that minimize expected response times. When a fire occurs, the outputs from these two stages are actualized into dispatch level, response time, and suppression time. These intermediate outputs are then transformed into inputs for producing service output, which I measure in terms of fire spread. Using data on 49,000 fire dispatches that occurred in Gyeonggi Province, South Korea in 2014- 2018, I estimate a set of models for the above outputs. I find evidence for increasing returns to population scale and an 1.9% increase in the number of severe fire outcomes associated with a one-minute delay in response times.
 
   </details>
