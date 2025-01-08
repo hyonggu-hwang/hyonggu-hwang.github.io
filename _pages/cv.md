@@ -17,13 +17,13 @@ Education
 
 Research
 ======
-* UIUC Gies College of Business
+* UIUC Gies College of Business<br>
   Graduate RA for Julia Fonseca (2024-2025)
 
-* University of Chicago
-  Full-time RA for Alexander Torgovitsky (2024)
+* University of Chicago<br>
+  Full-time RA for Alexander Torgovitsky (2024)<br>
   Predoctoral RA for Alexander Torgovitsky and Pietro Tebaldi (2020-2022)
 
-* College of Wooster
+* College of Wooster<br>
   Part-time RA positions for Matthew Histen, Brooke Krause, Marian Frazier (2017-2020)
   
