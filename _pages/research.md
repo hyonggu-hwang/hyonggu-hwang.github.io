@@ -4,8 +4,11 @@ permalink: /research/
 author_profile: false
 ---
 
-Predoctoral Research
-======
+## Research Interests
+Corporate finance, household finance, industrial organization, structural estimation
+
+## Predoctoral Research
+
 * <strong>University of Chicago, Department of Economics (2024)</strong><br>
   Full-time RA for [Alexander Torgovitsky](https://a-torgovitsky.github.io), 2024<br>
   Predoctoral RA for [Alexander Torgovitsky](https://a-torgovitsky.github.io) and [Pietro Tebaldi](https://www.pietrotebaldi.com), 2020-2022
