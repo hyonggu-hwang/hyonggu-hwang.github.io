@@ -13,3 +13,4 @@ Predoctoral Research
 * <strong>College of Wooster</strong><br>
   Part-time RA positions for Matthew Histen, [Brooke Krause](https://sites.google.com/view/brookekrause/home) and [Marian Frazier](https://wooster.edu/bio/mafrazier/), 2017-2020
   
+<hr> 

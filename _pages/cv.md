@@ -11,6 +11,8 @@ redirect_from:
 
 Click [here](https://drive.google.com/file/d/1K24iUAvshwUJMkMthuDbaGY2PHg4LQoF/view?usp=sharing) to view in PDF (Updated in January 2025)
 
+<hr> 
+
 Education
 ======
 <strong>Univeristy of Illionis Urbana-Champaign, Gies College of Business</strong> <br>
@@ -36,6 +38,8 @@ Predoctoral RA for [Alexander Torgovitsky](https://a-torgovitsky.github.io) and 
 <strong>College of Wooster</strong><br>
 Part-time RA positions for Matthew Histen, [Brooke Krause](https://sites.google.com/view/brookekrause/home) and [Marian Frazier](https://wooster.edu/bio/mafrazier/), 2017-2020 <br>
   
+<hr> 
+
 Teaching
 ======
 <strong>College of Wooster</strong> <br>
