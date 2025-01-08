@@ -51,15 +51,12 @@ Predoctoral RA for [Alexander Torgovitsky](https://a-torgovitsky.github.io) and 
 <br> 
 
     Working with Professor Pietro Tebaldi at Columbia University and his coauthors, I contribute to a project that investigates the value of adding a 'public option' to health insurance exchanges. We consider the Medicare Advantage (MA) program, under which Medicare beneficiaries can opt out of Traditional Medicare (TM) program and enroll in a private-sector insurance plan. The MA program was implemented to diversify the consumer's choice set and to reduce healthcare costs through increased insurer competition. To provide some context, I breifly discuss below the institutional detail of the two programs.   
-
 <br> 
     
     There are a few notable differences between TM and MA. First, coverage: TM only includes Medicare Part A (inpatient) and Part B (outpatient) and requires a separate enrollment for Part D (prescription drug), whereas MA plans are bundled with Parts A, B, and D and usually offer additional benefits such as hearing, dental, or vision. Second, cost structure: TM adopts a fee-for-service payment model and does not have a yearly limit on out-of-pocket costs, whereas MA plans usually do impose such limits for Part A and B services. Lastly, access to providers: TM allows beneficiaries to use any doctor or hospital that takes Medicare, whereas the choice of MA beneficiaries are constrained by the MA plan's provider network and service area.  
-
 <br> 
     
     An interesting aspect of the MA program is the price negotiation that occurs between insurers and providers. Under TM, providers are reimbursed with a fee (calculated by a formula) for each service provided to the beneficiary. They cannot negotiate the payment rate but may choose to reject the rate and opt out of Medicare. On the contrary, under MA, providers have bargaining power against insurers and can form networks with other providers. In this unique setting, insurer competition becomes an important determinant of negotiated hospital prices and overall welfare in the U.S. healthcare industry. Ho and Lee (2017) identify and quantify this mechanism in much detail.  
-
 <br> 
     
     I have contributed to the demand estimation side of the project by augmenting the model presented in Curto, Einav, Levin, and Bhattacharya (2021). We estimate a nested logit model of MA plan demand that accounts for hospital networks and their heterogeneity across plans. To do so, I work with large administrative data sets provided by the Centers for Medicare & Medicaid Services on plan bid, benefits, enrollment, and penetration rates across U.S. counties, while also managing data on hospital and physician networks. The compiled data allow us to derive the demand elasticities which are needed to observe equilibrium outcomes in counterfactual excercies and policy experiments.
@@ -71,41 +68,29 @@ Undergraduate research positions
   <details>
   <summary>Click here for more detail.</summary>
 <br> 
-
     At the College of Wooster, I worked as a departmental research assistant for three different projects, and as a student researcher for the Applied Methods and Research Experience (AMRE) program. 
 <br> 
-
     In Fall 2019, I worked with Professor Marian Frazier of the Statistics & Data Science department to analyze the socio-economic factors of becoming a vegetarian. We considered a logit model using the U.S. National Health and Nutrition Examination Survey (NHANES) data provided by the Centers for Disease Control and Prevention. 
 <br> 
-
     In Spring 2018, I worked with Professor Brooke Krause of the Economics department and contributed to the program evaluation of the Trias project as part of GAAP2. The project studied how enhancement in livestock empowered Tanzanian women to gain economic autonomy and cope with domestic violence. 
 <br> 
-
     In Fall 2017, I worked with Professor Matthew Histen of the Economics department to study historic factors of long-term economic growth, such as political systems, technological inventions, natural disasters, religion, or military size.
 <br> 
-
     In Summer 2019, I worked as a student researcher for Wooster Community Hospital in a team of two more math majors and Professors Jen Bowen (mathematics) and Drew Pasteur (applied statistics). We developed models of physical therapy outcome as measured by the patient's preceived improvement score for different areas of injury. Our models considered demographic characteristics, injury severity, clinical history, comorbidities, and socio-economic factors. Our findings were presented at the American Society of Shoulder and Elbow Therapists conference and at the Applied Methods and Research Experience symposium at the College of Wooster.  
 
-  </details>
+</details>
 
 * <strong>College of Wooster (2019-2020)</strong><br>
 Undergraduate thesis project (<em>[View full text](https://openworks.wooster.edu/cgi/viewcontent.cgi?article=11861&context=independentstudy) </em>)
   <details>
   <summary>Click here for more detail.</summary>
 <br> 
-
-Title: A Theory of Fire Service Provision: With an empirical analysis of response time, suppression time, and service output
-
+    Title: A Theory of Fire Service Provision: With an empirical analysis of response time, suppression time, and service output
 <br> 
-
-Advisors: Jim Burnell (Economics), Marian Frazier (Statistics)
-
+    Advisors: Jim Burnell (Economics), Marian Frazier (Statistics)
 <br> 
-
-Funding: Henry J. Copeland Independent Study Grant ($1490.40), April 2019
-
+    Funding: Henry J. Copeland Independent Study Grant ($1490.40), April 2019
 <br> 
-
-Abstract: I introduce a two-stage theoretical framework of fire services that justifies the status of response time as a factor input. In the first stage, the provincial government distributes a budget to its cities, resulting in varied numbers of firefighters and fire engines in each city. In the second stage, each city fire department places its fire stations at spatially optimal locations that minimize expected response times. When a fire occurs, the outputs from these two stages are actualized into dispatch level, response time, and suppression time. These intermediate outputs are then transformed into inputs for producing service output, which I measure in terms of fire spread. Using data on 49,000 fire dispatches that occurred in Gyeonggi Province, South Korea in 2014- 2018, I estimate a set of models for the above outputs. I find evidence for increasing returns to population scale and an 1.9% increase in the number of severe fire outcomes associated with a one-minute delay in response times.
+    Abstract: I introduce a two-stage theoretical framework of fire services that justifies the status of response time as a factor input. In the first stage, the provincial government distributes a budget to its cities, resulting in varied numbers of firefighters and fire engines in each city. In the second stage, each city fire department places its fire stations at spatially optimal locations that minimize expected response times. When a fire occurs, the outputs from these two stages are actualized into dispatch level, response time, and suppression time. These intermediate outputs are then transformed into inputs for producing service output, which I measure in terms of fire spread. Using data on 49,000 fire dispatches that occurred in Gyeonggi Province, South Korea in 2014- 2018, I estimate a set of models for the above outputs. I find evidence for increasing returns to population scale and an 1.9% increase in the number of severe fire outcomes associated with a one-minute delay in response times.
 
   </details>
