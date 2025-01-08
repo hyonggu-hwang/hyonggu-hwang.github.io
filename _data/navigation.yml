@@ -9,10 +9,10 @@ main:
     url: /cv/
 
   - title: "Research"
-    url: /year-archive/
+    url: /research/
 
   - title: "Teaching"
     url: /teaching/
-        
+
   - title: "Guide"
     url: /markdown/
