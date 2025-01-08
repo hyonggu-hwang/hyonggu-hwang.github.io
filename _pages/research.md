@@ -46,8 +46,6 @@ Predoctoral RA for [Alexander Torgovitsky](https://a-torgovitsky.github.io) and 
     Lastly, I am involved with the general building of the package. This includes keeping program files well maintained on GitHub, writing unit tests, and composing 'roxygen' descriptions for the pacakge manual. Another interesting, less everyday aspect of package development was to review and compare existing R packages for demand estimation. This was beneficial in that we could determine the types of data structure that our potential users would feel most familiar with and also weigh the pros and cons of the most widely used interfaces. 
   </details>
 
-* <strong>University of Chicago, Becker Friedman Institute (2020-2021)</strong><br>
-Predoctoral RA for [Alexander Torgovitsky](https://a-torgovitsky.github.io) and [Pietro Tebaldi](https://www.pietrotebaldi.com), 2020-2022 <br>
   <details>
   <summary>Project: Insurer competition in U.S. Medicare Advantage markets</summary>
 <br> 
