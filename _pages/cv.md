@@ -46,13 +46,19 @@ Part-time RA positions for Matthew Histen, [Brooke Krause](https://sites.google.
 Teaching Assitant to [Brooke Krause](https://sites.google.com/view/brookekrause/home) for Econometrics, 2020 <br>
 Teaching Assitant to [Melanie Long](https://sites.google.com/view/mglong/home?authuser=0) for Econometrics, 2019 <br>
 Teaching Assitant to [Philip Mellizo](https://wooster.edu/bio/pmellizo/) for Intermediate Microeconomics, 2018 <br>
-Teaching Assitant to Matthew Histen for Principles of Economics, 2017
+Teaching Assitant to Matthew Histen for Principles of Economics, 2017 <br>
 
-<hr> 
+<hr>
 
 ## Awards
 
 <strong>College of Wooster</strong> <br>
-[The Proctor & Gamble Economics Prize](https://drive.google.com/file/d/1ZwWnqDEm9B9V1NSX19_Q0CVrE-ilk1Z-/view?usp=sharing), 2020 <br>
+[Proctor & Gamble Economics Prize](https://drive.google.com/file/d/1ZwWnqDEm9B9V1NSX19_Q0CVrE-ilk1Z-/view?usp=sharing), 2020 <br>
 Departmental Honors from the Economics and Mathematics departments, 2020 <br>
-Henry J. Copeland Independent Study Grant ($1490.40) in support of [undergraduate thesis](https://openworks.wooster.edu/cgi/viewcontent.cgi?article=11861&context=independentstudy), 2019
+[Henry J. Copeland Independent Study Grant](https://inside.wooster.edu/academic-affairs/copeland-fund/) ($1490.40) in support of [undergraduate thesis](https://openworks.wooster.edu/cgi/viewcontent.cgi?article=11861&context=independentstudy), 2019
+
+<hr>
+
+## Skills 
+<strong>Programming Skills </strong> R, Julia, Stata, Latex <br>
+<strong>Military Service </strong> Assistant firefighter, South Korea, 2014-2016
