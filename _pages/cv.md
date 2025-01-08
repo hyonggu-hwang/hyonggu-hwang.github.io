@@ -13,8 +13,8 @@ Click [here](https://drive.google.com/file/d/1_cFAG4X3u22VXXG863L4BF3J-fZZJxax/v
 
 <hr> 
 
-Education
-======
+## Education
+
 <strong>Univeristy of Illionis Urbana-Champaign, Gies College of Business</strong> <br>
 Ph.D Student in Finance, 2024 - Now <br>
 
@@ -26,8 +26,8 @@ B.A. in Economics and Mathematics, 2020<br>
 
 <hr> 
 
-Research
-======
+## Research
+
 <strong>UIUC Gies College of Business</strong> <br>
 Graduate RA for [Julia Fonseca](https://www.juliafonseca.com), 2024-2025 <br>
 
@@ -40,17 +40,18 @@ Part-time RA positions for Matthew Histen, [Brooke Krause](https://sites.google.
   
 <hr> 
 
-Teaching
-======
+## Teaching
+
 <strong>College of Wooster</strong> <br>
 Teaching Assitant to [Brooke Krause](https://sites.google.com/view/brookekrause/home) for Econometrics, 2020 <br>
 Teaching Assitant to [Melanie Long](https://sites.google.com/view/mglong/home?authuser=0) for Econometrics, 2019 <br>
-Teaching Assitant to [Philip Mellizo](https://sites.google.com/view/brookekrause/home) for Intermediate Microeconomics, 2018 <br>
+Teaching Assitant to [Philip Mellizo](https://wooster.edu/bio/pmellizo/) for Intermediate Microeconomics, 2018 <br>
 Teaching Assitant to Matthew Histen for Principles of Economics, 2017
 
 <hr> 
-Awards
-======
+
+## Awards
+
 <strong>College of Wooster</strong> <br>
 [The Proctor & Gamble Economics Prize](https://drive.google.com/file/d/1ZwWnqDEm9B9V1NSX19_Q0CVrE-ilk1Z-/view?usp=sharing), 2020 <br>
 Departmental Honors from the Economics and Mathematics departments, 2020 <br>
