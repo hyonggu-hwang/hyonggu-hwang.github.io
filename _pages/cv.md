@@ -32,3 +32,10 @@ Research
 * <strong>College of Wooster</strong><br>
   Part-time RA positions for Matthew Histen, [Brooke Krause](https://sites.google.com/view/brookekrause/home) and [Marian Frazier](https://wooster.edu/bio/mafrazier/), 2017-2020
   
+Teaching
+======
+* <strong>College of Wooster</strong> <br>
+  Teaching Assitant to [Brooke Krause](https://sites.google.com/view/brookekrause/home) for Econometrics, 2020 <br>
+  Teaching Assitant to [Melanie Long](https://sites.google.com/view/mglong/home?authuser=0) for Econometrics, 2019 <br>
+  Teaching Assitant to [Philip Mellizo](https://sites.google.com/view/brookekrause/home) for Intermediate Microeconomics, 2018 <br>
+  Teaching Assitant to Matthew Histen for Principles of Economics, 2017
