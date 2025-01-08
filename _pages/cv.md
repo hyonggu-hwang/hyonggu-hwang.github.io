@@ -25,19 +25,19 @@ B.A. in Economics and Mathematics, 2020<br>
 Research
 ======
 <strong>UIUC Gies College of Business</strong> <br>
-Graduate RA for [Julia Fonseca](https://www.juliafonseca.com), 2024-2025 <br><br>
+Graduate RA for [Julia Fonseca](https://www.juliafonseca.com), 2024-2025 <br>
 
 <strong>University of Chicago</strong><br>
 Full-time RA for [Alexander Torgovitsky](https://a-torgovitsky.github.io), 2024<br>
-Predoctoral RA for [Alexander Torgovitsky](https://a-torgovitsky.github.io) and [Pietro Tebaldi](https://www.pietrotebaldi.com), 2020-2022 <br><br>
+Predoctoral RA for [Alexander Torgovitsky](https://a-torgovitsky.github.io) and [Pietro Tebaldi](https://www.pietrotebaldi.com), 2020-2022 <br>
 
 <strong>College of Wooster</strong><br>
 Part-time RA positions for Matthew Histen, [Brooke Krause](https://sites.google.com/view/brookekrause/home) and [Marian Frazier](https://wooster.edu/bio/mafrazier/), 2017-2020 <br>
   
 Teaching
 ======
-* <strong>College of Wooster</strong> <br>
-  Teaching Assitant to [Brooke Krause](https://sites.google.com/view/brookekrause/home) for Econometrics, 2020 <br>
-  Teaching Assitant to [Melanie Long](https://sites.google.com/view/mglong/home?authuser=0) for Econometrics, 2019 <br>
-  Teaching Assitant to [Philip Mellizo](https://sites.google.com/view/brookekrause/home) for Intermediate Microeconomics, 2018 <br>
-  Teaching Assitant to Matthew Histen for Principles of Economics, 2017
+<strong>College of Wooster</strong> <br>
+Teaching Assitant to [Brooke Krause](https://sites.google.com/view/brookekrause/home) for Econometrics, 2020 <br>
+Teaching Assitant to [Melanie Long](https://sites.google.com/view/mglong/home?authuser=0) for Econometrics, 2019 <br>
+Teaching Assitant to [Philip Mellizo](https://sites.google.com/view/brookekrause/home) for Intermediate Microeconomics, 2018 <br>
+Teaching Assitant to Matthew Histen for Principles of Economics, 2017
