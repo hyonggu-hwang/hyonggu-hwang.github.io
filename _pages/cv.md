@@ -15,7 +15,7 @@ Click [here](https://drive.google.com/file/d/1_cFAG4X3u22VXXG863L4BF3J-fZZJxax/v
 
 ## Education
 
-<strong>Univeristy of Illionis Urbana-Champaign, Gies College of Business</strong> <br>
+<strong>University of Illionis Urbana-Champaign, Gies College of Business</strong> <br>
 Ph.D Student in Finance, 2024 - Now <br>
 
 <strong> University of Chicago, Department of Economics</strong> <br>
@@ -43,10 +43,10 @@ Part-time RA positions for Matthew Histen, [Brooke Krause](https://sites.google.
 ## Teaching
 
 <strong>College of Wooster</strong> <br>
-Teaching Assitant to [Brooke Krause](https://sites.google.com/view/brookekrause/home) for Econometrics, 2020 <br>
-Teaching Assitant to [Melanie Long](https://sites.google.com/view/mglong/home?authuser=0) for Econometrics, 2019 <br>
-Teaching Assitant to [Philip Mellizo](https://wooster.edu/bio/pmellizo/) for Intermediate Microeconomics, 2018 <br>
-Teaching Assitant to Matthew Histen for Principles of Economics, 2017 <br>
+Teaching Assistant to [Brooke Krause](https://sites.google.com/view/brookekrause/home) for Econometrics, 2020 <br>
+Teaching Assistant to [Melanie Long](https://sites.google.com/view/mglong/home?authuser=0) for Econometrics, 2019 <br>
+Teaching Assistant to [Philip Mellizo](https://wooster.edu/bio/pmellizo/) for Intermediate Microeconomics, 2018 <br>
+Teaching Assistant to Matthew Histen for Principles of Economics, 2017 <br>
 Economics Department Peer Tutor, 2018
 
 <hr>

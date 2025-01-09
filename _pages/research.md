@@ -15,7 +15,7 @@ Full-time RA for [Alexander Torgovitsky](https://a-torgovitsky.github.io), 2024 
   <summary>Dynamic model of labor supply</summary>
   <br> 
 
-    Before starting graduate school at UIUC Gies, I briefly (for about six months) worked as a research assistant for Professor Alexander Torgovitsky on an econometrics proejct studying whether experiments can validate structural models. 
+    Before starting graduate school at UIUC Gies, I briefly (for about six months) worked as a research assistant for Professor Alexander Torgovitsky on an econometrics project studying whether experiments can validate structural models. 
     <br>
     
     I was in charge of reviewing and profiling a program written in Julia that solved a dynamic model of labor supply. My report included a summary of this model and a detailed description of how we solved the model using backward induction. Although I did not write the original code, I contributed to speeding up the program and choosing the most appropriate non-linear optimization solver and algorithm for our problem. Overall, I learned how one can write and solve a behavioral model involving stochastic utility shocks and gained experience in estimating a structural model. 
