@@ -21,7 +21,7 @@ Full-time RA for [Alexander Torgovitsky](https://a-torgovitsky.github.io), 2024 
     I was in charge of reviewing and profiling a program written in Julia that solved a dynamic model of labor supply. My report included a summary of this model and a detailed description of how we solved the model using backward induction. Although I did not write the original code, I contributed to speeding up the program and choosing the most appropriate non-linear optimization solver and algorithm for our problem. Overall, I learned how one can write and solve a behavioral model involving stochastic utility shocks and gained experience in estimating a structural model. 
     <br>
 
-    I also worked on developing a pipeline for the project using task management softwares such as Snakemake, Nextflow and Scriptflow. Wikipedia defines these as softwares used for composing and executing a series of computational and data manipulation steps (i.e. workflows) in a scientific application. Since the project involved a very large number of simulations and estimations, I developed code scripts for orchestrating job submissions on the university computer networks. 
+    I also worked on developing a pipeline for the project using task managers such as Snakemake, Nextflow and Scriptflow, which are all softwares used for composing and executing a series of computational and data manipulation steps (i.e. workflows) in a scientific application. Since the project involved a large number of simulations and estimations, I developed code scripts for orchestrating job submissions on the university computer networks. 
 
   </details>
 
